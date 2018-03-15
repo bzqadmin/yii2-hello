@@ -1,0 +1,12 @@
+{
+    "name": "bzqadmin/yii2-hello",
+    "description": "a test extension of yii2",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "adam",
+            "email": "admin@meeyee.net"
+        }
+    ],
+    "require": {}
+}
